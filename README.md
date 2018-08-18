@@ -10,10 +10,10 @@ Just type the following in a CLI -
 ```python stopwatch.py```
 
 **Note** - You *should* be in the same folder/directory containing the Python file.
----
+___
 #### BONUS for reading the above 
 You can simply double click on the Python file to open it :p
----
+___
 
 My first attempt in GUI ^\_^
 
