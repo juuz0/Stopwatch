@@ -12,4 +12,4 @@ Just type the following in a CLI -
 **Note** - You *should* be in the same folder/directory containing the Python file.
 
 My first attempt in GUI ^\_^
-!(https://github.com/2002nikhiltanwar/Stopwatch/blob/master/img.PNG)
+!(https://githubusercontent.com/2002nikhiltanwar/Stopwatch/blob/master/img.PNG)
