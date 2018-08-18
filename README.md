@@ -12,4 +12,4 @@ Just type the following in a CLI -
 **Note** - You *should* be in the same folder/directory containing the Python file.
 
 My first attempt in GUI ^\_^
-![Sample Output](master/img.PNG?raw=true "Output in Windows 10")
+![Sample Output](https://github.com/2002nikhiltanwar/Stopwatch/blob/master/img.PNG?raw=true "Output in Windows 10")
