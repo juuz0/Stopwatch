@@ -16,5 +16,8 @@ You can simply double click on the Python file to open it :p
 ___
 
 My first attempt in GUI ^\_^
+First release image -
+![Sample Output 1](https://github.com/2002nikhiltanwar/Stopwatch/blob/master/img.PNG?raw=true "Output in Windows 10")
 
-![Sample Output](https://github.com/2002nikhiltanwar/Stopwatch/blob/master/img.PNG?raw=true "Output in Windows 10")
+Update 1 -
+![Sample Output 2](https://github.com/2002nikhiltanwar/Stopwatch/blob/master/style.PNG?raw=true "Output in Windows 10")
